@@ -1,0 +1,39 @@
+# Compiled files
+*.dcu
+*.dpu
+*.obj
+*.exe
+*.dll
+
+# Delphi temporary files
+*.~*
+*.identcache*
+*.local
+*.bak
+*.~*
+*.tvsconfig
+*.ddp
+__history/
+*.~*
+*.swp
+
+# Project files that should be left out
+*.dsk
+*.deployproj
+*.stat
+*.bpl
+
+# Local configuration files that may contain sensitive info
+*.cfg
+*.ini
+
+# Backup and log files
+*.bak
+*.log
+
+# Binaries directories
+bin/
+lib/
+
+# Ignore filled pdfs
+*_filled.pdf
